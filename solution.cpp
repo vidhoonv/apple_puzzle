@@ -72,12 +72,12 @@ long long numRounds(int numCards){
 
 int main(){
 	int numCards=0;
-	//cout<<"Enter number of cards:"<<endl;
-	//cin>>numCards;
-	//cout<<"Number of rounds required: "<<numRounds(numCards)<<endl;
+	cout<<"Enter number of cards:"<<endl;
+	cin>>numCards;
+	cout<<"Number of rounds required: "<<numRounds(numCards)<<endl;
 	
-	for(int i=1;i<=50;i++)
-		cout<<i<<": "<<numRounds(i)<<endl;
+	//for(int i=1;i<=50;i++)
+	//	cout<<i<<": "<<numRounds(i)<<endl;
 	
 	return 0;
 }

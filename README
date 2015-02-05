@@ -1,0 +1,7 @@
+To compile:
+===========
+g++ -std=c++11 -o sol solution.cpp
+
+To Run:
+=======
+./sol
