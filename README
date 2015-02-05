@@ -5,3 +5,10 @@ g++ -std=c++11 -o sol solution.cpp
 To Run:
 =======
 ./sol
+
+Sample run:
+===========
+vidhoonv@vidhoonv-Lenovo-IdeaPad-Z410:~/apple_puzzle$ ./sol
+Enter number of cards:
+23
+Number of rounds required: 24
